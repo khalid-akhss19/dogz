@@ -1,0 +1,22 @@
+.navbar1{
+    background-color: rgb(235, 235, 235);
+    padding: 20px;
+
+}
+
+.navbar1 ul{
+    display: flex;
+    list-style-type:none;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+
+.navbar1 ul li:hover{
+    color:rgba(246, 61, 61, 1);
+    transition: 0.3s;
+}
+.navbar1 ul i:hover{
+    color:rgba(246, 61, 61, 1);
+    transition: 0.3s;
+}

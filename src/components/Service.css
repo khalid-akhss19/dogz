@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_2{
+    margin-top: 40px;
+}
+.dog{
+    display: flex;
+    justify-content: center;
+}
+.main_head{
+    text-align: center;
+    color: #F63D3D;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.cards{
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.card_icon{
+    background-color: #AC33334D ;
+    padding: 20px;
+    height: 40px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.card_heading{
+    color: #F63D3D;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+}
+.card1 .card_icon{
+    margin: auto;
+}
+.card_text p{
+    margin-top: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
