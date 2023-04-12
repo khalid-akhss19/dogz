@@ -44,7 +44,8 @@ function LandingPage() {
                 </div>
 
                 <div className='main_img'>
-                    <img className='img1' src={ring}/>
+                    
+                <img className='img1' src={ring}/>
                 <img className='img2' src={image2} alt="" />
                 <img className='img3' src={image1}/> 
 
